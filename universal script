@@ -8,6 +8,9 @@ tab.newButton("Speed Hub","Menú | Hub", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()  
 end)
 
+tab.newButton("Test Hub", "Menú | Hub", function()  loadstring(game:HttpGet("https://raw.githubusercontent.com/DarTGTtfd/Test-Hub-Official/main/Test%20oficial"))()
+end)
+
 tab.newButton("Cokka Hub", "Menú | Hub", function()  loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()
 end)
 
@@ -49,6 +52,9 @@ end)
 tab.newButton("Bini Hub", "Menú | Hub", function()
 repeat wait() until game:IsLoaded()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Binintrozza/yutv2e/main/Yutohub')))()
+end)
+
+tab.newButton("Auto Chest", "Menú | Hub", function()  loadstring(game:HttpGet("https://raw.githubusercontent.com/Yatsuraa/Yuri/main/autofarmchest.lua"))()
 end)
 
 local tab = DrRayLibrary.newTab("Rivals", "ImageIdHere")
@@ -103,3 +109,47 @@ end)
 tab.newButton("Keyboard", "Floating | Menú", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt", true))()
 end)
 
+local tab = DrRayLibrary.newTab("Meme sea", "ImageIdHere")
+
+tab.newButton("Domatic Hub", "Menú | Hub", function()  loadstring(game:HttpGet('https://raw.githubusercontent.com/Domadicoof/Domadicoof/main/Xzibits/Meme%20Sea%20Script'))()
+end)
+
+tab.newButton("Redz Hub", "Menú | Hub", function()   loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/MemeSea/main/Source.lua"))()
+
+end)
+
+tab.newButton("ElGato Hub", "Menú | Hub", function()  loadstring(game:HttpGet(('https://raw.githubusercontent.com/FrostLua/Krakles/main/ElgatoHub/Loader.lua'),true))()     
+end)
+
+tab.newButton("Shniy Hub", "Menú | Hub", function()  loadstring(game:HttpGet('https://raw.githubusercontent.com/ZaqueHub/ShinyHub-MMSea/main/MEME%20SEA%20PROTECT.txt'))()
+
+tab.newButton("Yotu Hub", "Menú | Hub", function()   loadstring(game:HttpGet(('https://raw.githubusercontent.com/Binintrozza/yutv2e/main/Yutohub')))()
+  
+end)
+
+local tab = DrRayLibrary.newTab("Universal", "ImageIdHere")
+
+tab.newButton("Aimbot mobile/Pc", "Menú | Hub", function()  loadstring(game:HttpGet("https://pastebin.com/raw/utHyEcbk"))()     
+end)
+
+tab.newButton("Nameless Admin", "Menú | Hub", function()  loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))();   
+end)
+
+tab.newButton("Air HUB ( Only Aimbot Work )", "Menú | Hub", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub/main/AirHub.lua"))()     
+end)
+
+tab.newButton("Ghost HUB", "Menú | Hub", function()  loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()     
+end)
+
+tab.newButton(Aimbot and ESP", "Menú | Hub", function()  loadstring(game:HttpGet('https://raw.githubusercontent.com/Mick-gordon/Hyper-Escape/main/DeleteMobCheatEngine.lua'))()   
+end)
+
+tab.newButton("Aimbot 2 ( Hold MB2 )", "Menú | Hub", function()  loadstring(game:HttpGet("https://raw.githubusercontent.com/QP-Community/Roblox/main/AimbotMB2"))()   
+end)
+
+tab.newButton("Chat bypass n word", "Menú | Hub", function()  loadstring(game:HttpGet("https://raw.githubusercontent.com/SkireScripts/Ouxie/main/Projects/simplebypass.lua"))()
+end)
+
+tab.newButton("fre cam", "Menú | Hub", function() _G.FREECAM_MACRO_KB = {Enum.KeyCode.LeftShift, Enum.KeyCode.P} --change keybind for freecam if you want
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Melishy/melishy-scripts/main/freecam/freecam.lua", true))()   
+end)
